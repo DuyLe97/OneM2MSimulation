@@ -1,0 +1,16 @@
+Sun Dec 22 08:48:44 ICT 2019
+HTTP/1.1 201 Created
+/in-cse/csr-478693141
+<?xml version="1.0" encoding="UTF-8"?>
+<m2m:csr xmlns:m2m="http://www.onem2m.org/xml/protocols" xmlns:hd="http://www.onem2m.org/xml/protocols/homedomain" rn="mn-name">
+   <ty>16</ty>
+   <ri>/in-cse/csr-478693141</ri>
+   <pi>/in-cse</pi>
+   <ct>20191222T084844</ct>
+   <lt>20191222T084844</lt>
+   <acpi>/in-cse/acp-845376476</acpi>
+   <poa>http://127.0.0.1:8282/</poa>
+   <cb>//om2m.org/mn-cse</cb>
+   <csi>/mn-cse</csi>
+   <rr>true</rr>
+</m2m:csr>
